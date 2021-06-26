@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="frenzy.png"><SubTexture name="frenzy idle0000" x="0" y="0" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy idle0001" x="434" y="0" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy idle0002" x="868" y="0" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy idle0003" x="1302" y="0" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy idle0004" x="0" y="873" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy up0000" x="434" y="873" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy up0001" x="868" y="873" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy down0000" x="1302" y="873" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy down0001" x="0" y="1746" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy left0000" x="434" y="1746" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy left0001" x="868" y="1746" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy right0000" x="1302" y="1746" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+<SubTexture name="frenzy right0001" x="0" y="2619" width="434" height="873" frameX="0" frameY="0" frameWidth="434" frameHeight="873" />
+</TextureAtlas>
